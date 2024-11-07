@@ -1,0 +1,1 @@
+var nomor2 = 30
